@@ -1,0 +1,21 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+    <a class="site-title" href="{{ site.baseurl }}/">
+      <div class="logo"></div>
+    </a>
+    <nav class="cyan">
+      <div class="nav-wrapper">
+        <a href="{{ site.baseurl }}/" class="brand-logo center strong">PrintF Solutions</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          {% for my_page in site.pages %}
+            {% if my_page.title %}
+            <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title | escape }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+  </div>
+
+</header>

@@ -1,0 +1,71 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+// Import all the css of MaterializeCSS
+@import "materialize";
+
+$logo: url(../img/logo.png);
+
+html {
+  font-family: Roboto, GillSans, Calibri, Trebuchet, sans-serif;
+}
+
+.logo {
+  background: $logo no-repeat;
+  background-position: center;
+  background-size: 120px;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.site-header{
+  margin-bottom: 20px;
+}
+
+.diario{
+	border-top-left-radius: 0px !important;
+	border-top-rigth-radius: 0px !important;
+	font-weight: 300;
+	font-size: 1.5REM;
+	line-height: 12px;
+	width: 200px;
+}
+
+.rss-subscribe{
+  padding: 5px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  width: 140px;
+  float: right;
+  a{
+    color: white;
+    text-decoration: underline;
+  }
+}
+
+/* POST */
+article{
+  padding: 0 10%;
+}
+
+.post-title{
+  font-size: 4REM;
+  margin-bottom: 5px;
+}
+
+.post-meta{
+  margin: 0;
+  color: #999;
+  padding-left: 5px;
+  font-size: 1REM;
+}
+
+.post-content{
+  padding: 0 5%;
+}
+
+.post-date{
+  padding: 0;
+}
