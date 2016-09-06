@@ -16,3 +16,13 @@ Quisque quis neque malesuada, laoreet nibh quis, aliquam leo. Nam laoreet non do
 Mauris lorem dui, iaculis ut odio ut, tempor sollicitudin risus. Morbi quis condimentum eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean accumsan dui quis massa consequat porttitor a interdum tellus. Aliquam a tempus mi. Donec sit amet commodo libero. Pellentesque varius feugiat mauris et lobortis. In scelerisque aliquet ipsum, eu fringilla erat bibendum a. Praesent facilisis erat nulla, et luctus orci lobortis non.
 
 Sed venenatis feugiat velit, ac luctus nunc tincidunt non. Nam hendrerit, quam nec luctus cursus, leo enim scelerisque arcu, sollicitudin maximus arcu orci et diam. In rutrum lectus non ultrices consectetur. Suspendisse vestibulum faucibus mauris, et rutrum eros vestibulum vel. Etiam nunc libero, mattis eu nulla quis, porta finibus risus. Nulla mattis eros magna, ac ornare dui feugiat at. Sed malesuada convallis orci, eget blandit justo. Proin a commodo diam. Quisque turpis arcu, iaculis sed tempus at, dictum eu libero. Nam ullamcorper, leo ut pulvinar aliquam, est sapien mattis justo, eu lacinia magna nibh ut lorem. Sed lorem velit, luctus sit amet felis vitae, bibendum euismod lectus. Vestibulum euismod placerat commodo. Vivamus lectus orci, lacinia ut fringilla et, tincidunt eu urna.
+
+
+~~~ python
+class Educake():
+  def say(self):
+    print("Hello World!")
+
+educake = Educake()
+educake.say()
+~~~

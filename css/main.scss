@@ -64,8 +64,21 @@ article{
 
 .post-content{
   padding: 0 5%;
+  margin-bottom: 50px;
 }
 
 .post-date{
   padding: 0;
 }
+
+.highlight{
+  font-size: 18px;
+  background: #3c3c3c;
+  border: 1px solid #BBB;
+  border-width: 1px 1px 1px 8px;
+  padding: 0;
+  border-left-color: #5c5c5c;
+  padding: 5px;
+}
+
+@import "python-highlight"

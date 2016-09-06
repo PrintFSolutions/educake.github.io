@@ -3,9 +3,14 @@ layout: post
 title:  "Chegamos!"
 date:   2016-09-05 22:20:44 -0300
 categories: diario
-author: "Vitor Silvério de Souza"
+author: Vitor "Pliavi" Silvério de Souza
 resume: > #
-  Um resumo do começo da PrintF e seus projetos futuros!
+  Um resumo do começo da PrintF!
 ---
 Tudo começou com um trabalho tumultuado criado por um conjunto de professores do IFSP Campus Caraguatatuba...
-No dia 
+
+No dia 29 de Julho de 2016 foi proposto aos universitários do 4º módulo de Tecnologia em Análise e Desenvolvimento de   Sistema que fizessem um projeto para avaliação ao invés da utilização de provas. Foi informado também que o mesmo abrangeria diversas disciplinas do curso, não apenas a de Banco de Dados II que era a que assistíamos no momento.
+
+Certo tempo depois, nosso professor de Gestão de Serviços Informatizados solicitou que para o projeto seria necessário a criação de uma empresa "real", a mesma teriaq que ter nome, logo, documentação, plano de custo, objetivos, etc.
+
+E em 3 semanas depois eis que estamos nós aqui! Ainda trabalhando para que essa empresa se erga, e se nosso primeiro projeto já for comercializável, porque não transformar este "real" em **REAL**?
