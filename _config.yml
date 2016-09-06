@@ -1,27 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing these this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Site Settings and Global Varables
 title: PrintF Solutions
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Uma desenvolvedora criada por pessoas diferentes para criação de soluções diferentes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://printfsolutions.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  PrintFSolutions
+email: pliavi.contato@gmail.com
+description: > 
+  Uma desenvolvedora criada por pessoas diferentes para criação de soluções diferentes.
+baseurl: ""
+url: "https://printfsolutions.github.io"
+github_username: PrintFSolutions
 
 # Build settings
 markdown: kramdown
-#theme: minima
